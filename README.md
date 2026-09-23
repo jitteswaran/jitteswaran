@@ -90,22 +90,6 @@ My focus is on building projects that are:
 
 ---
 
-# 📈 Contributions
-
-My GitHub contribution graph is available directly on my profile.
-
-<div align="center">
-
-<a href="https://github.com/jitteswaran">
-<img src="https://img.shields.io/github/commit-activity/y/jitteswaran?style=for-the-badge&label=Commits">
-</a>
-
-<a href="https://github.com/jitteswaran">
-<img src="https://img.shields.io/github/last-commit/jitteswaran/jitteswaran?style=for-the-badge&label=Profile%20Activity">
-</a>
-
-</div>
-
 # 🔥 GitHub Streak
 
 <div align="center">
