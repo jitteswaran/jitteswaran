@@ -72,13 +72,28 @@ My focus is on building projects that are:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jitteswaran&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=8B5CF6&rank_icon=github" width="48%">
+<img
+src="https://github-readme-stats.vercel.app/api?username=jitteswaran&show_icons=true&theme=github_dark&hide_border=true"
+width="48%"
+/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jitteswaran&theme=github-dark-blue&hide_border=true&background=0D1117" width="48%">
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitteswaran&layout=compact&theme=github_dark&hide_border=true"
+width="48%"
+/>
 
-<br><br>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitteswaran&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&langs_count=8" width="45%">
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=jitteswaran&theme=github-dark&hide_border=true"
+width="70%"
+/>
 
 </div>
 
@@ -88,10 +103,12 @@ My focus is on building projects that are:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jitteswaran&bg_color=0D1117&color=FFFFFF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%">
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=jitteswaran&theme=github-compact&hide_border=true"
+width="100%"
+/>
 
 </div>
-
 ---
 
 # 🚀 Featured Projects
