@@ -72,19 +72,39 @@ My focus is on building projects that are:
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=jitteswaran&show_icons=true&theme=github_dark&hide_border=true"
-width="48%"
-/>
+### 🚀 My GitHub
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitteswaran&layout=compact&theme=github_dark&hide_border=true"
-width="48%"
-/>
+<a href="https://github.com/jitteswaran?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://github.com/jitteswaran?tab=stars">
+<img src="https://img.shields.io/badge/Stars-My%20Stars-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://github.com/jitteswaran">
+<img src="https://img.shields.io/badge/Profile-jitteswaran-0D1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
 ---
+
+# 📈 Contributions
+
+My GitHub contribution graph is available directly on my profile.
+
+<div align="center">
+
+<a href="https://github.com/jitteswaran">
+<img src="https://img.shields.io/github/commit-activity/y/jitteswaran?style=for-the-badge&label=Commits">
+</a>
+
+<a href="https://github.com/jitteswaran">
+<img src="https://img.shields.io/github/last-commit/jitteswaran/jitteswaran?style=for-the-badge&label=Profile%20Activity">
+</a>
+
+</div>
 
 # 🔥 GitHub Streak
 
