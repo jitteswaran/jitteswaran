@@ -3,6 +3,37 @@
 <a href="https://github.com/jitteswaran">
   <img src="./assets/jitteswaran-3d.png" width="100%" alt="Jitteswaran 3D Developer Profile"/>
 </a>
+<div align="center">
+
+<a href="YOUR_PORTFOLIO_LINK">
+  <img src="./assets/jitteswaran-3d.png" width="100%" alt="Jitteswaran 3D Developer Profile">
+</a>
+
+<br><br>
+
+<a href="https://github.com/jitteswaran">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/jitteswaran-t-4730b0431">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://www.instagram.com/build_with_jerry">
+  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="YOUR_PORTFOLIO_LINK">
+  <img src="https://img.shields.io/badge/🚀%20Explore%20Projects-111111?style=for-the-badge">
+</a>
+
+</div>
 
 <br><br>
 
