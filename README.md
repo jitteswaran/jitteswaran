@@ -192,10 +192,12 @@ MongoDB                ██████████░░░░░░░░
 Computer Vision        █████████░░░░░░░░░
 AI / ML                ████████░░░░░░░░░░
 3D Web                 █████░░░░░░░░░░░░░
+```
 
 🔄 DEVELOPMENT LOOP
 <div align="center">
 
+```text
 IDEA
   ↓
 DESIGN
@@ -210,9 +212,11 @@ SHIP
   ↓
 REPEAT
 </div>
+```
 
 🎯 2026 MISSION
 
+```text
 [✓] Build real projects
 [✓] Learn by shipping
 [✓] Publish projects
@@ -220,9 +224,11 @@ REPEAT
 [ ] Go deeper into 3D
 [ ] Build an interactive developer portfolio
 [ ] Create bigger real-world applications
-
+```
 🖥️ GITHUB TERMINAL
 <div align="center">
+  
+```text
 ┌───────────────────────────────────────────────┐
 │                                               │
 │   USER       : JITTESWARAN                   │
@@ -239,6 +245,7 @@ REPEAT
 │                                               │
 └───────────────────────────────────────────────┘
 </div>
+```
 🔗 CONNECT
 <div align="center"> <a href="https://github.com/jitteswaran"> <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/jitteswaran-t-4730b0431"> <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://www.instagram.com/build_with_jerry"> <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a>
 
@@ -252,4 +259,4 @@ Building ideas into experiences.
 
 <sub>© 2026 Jitteswaran • Built with curiosity and code.</sub>
 
-</div> ```
+</div> 
