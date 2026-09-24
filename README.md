@@ -182,6 +182,7 @@ FOCUS    →  3D + INTERACTION
 ```
 
 📚 LEARNING MATRIX
+```
 
 Web Development        ███████████████░░░
 JavaScript             ███████████████░░░
