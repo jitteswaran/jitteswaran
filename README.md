@@ -2,19 +2,29 @@
 
 # 👋 Hey, I'm Jitteswaran
 
-### AI & Data Science Student • Developer • Builder
+### `AI & Data Science Student` • `Developer` • `Builder`
 
-I build interactive web applications, AI-powered experiences, and practical software projects.
+I build interactive web experiences, games, and AI-powered projects.
 
 <br>
 
 <a href="https://github.com/jitteswaran">
-<img src="https://img.shields.io/github/followers/jitteswaran?label=Followers&style=for-the-badge&logo=github&color=181717">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://github.com/jitteswaran?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github">
+<a href="https://www.linkedin.com/in/jitteswaran-t-4730b0431">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+<a href="https://www.instagram.com/build_with_jerry">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="https://github.com/jitteswaran?tab=repositories">📂 Explore Projects</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/jitteswaran?tab=overview">📊 GitHub Activity</a>
 
 </div>
 
@@ -22,84 +32,63 @@ I build interactive web applications, AI-powered experiences, and practical soft
 
 ## 🧑‍💻 About Me
 
-🎓 AI & Data Science Student  
-💻 Web Developer  
-🤖 Interested in AI & Computer Vision  
-🎮 Building Interactive Experiences  
-🚀 Learning by Building & Shipping  
+<details>
+<summary><b>Click to expand</b> 👀</summary>
 
-I enjoy turning ideas into working products — from multiplayer games and interactive websites to AI-powered applications.
+<br>
 
-My focus is on building projects that are:
+I'm an **AI & Data Science student** who enjoys turning ideas into working projects.
 
-- ⚡ Interactive
-- 🎨 Clean and modern
-- 📱 Responsive
-- 🧠 Practical
-- 🚀 Actually usable
+I like building things that are:
 
----
+- 🎨 Clean and interactive
+- ⚡ Fast and practical
+- 🧠 AI-powered when it makes sense
+- 🎮 Fun to use
+- 🚀 Portfolio-ready
 
-# 🛠️ Tech Stack
+My current focus is improving my skills through **real projects instead of just tutorials**.
 
-### Languages
+> `Think → Build → Break → Fix → Ship → Repeat`
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,python,c,html,css">
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite">
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express">
-</p>
-
-### Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,vercel,render">
-</p>
+</details>
 
 ---
 
-# 📊 GitHub Dashboard
+## ⚡ Tech Stack
 
-<div align="center">
+### 💻 Languages
 
-### 🚀 My GitHub
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+</p>
 
-<a href="https://github.com/jitteswaran?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View%20Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
-</a>
+### 🌐 Frontend
 
-<a href="https://github.com/jitteswaran?tab=stars">
-<img src="https://img.shields.io/badge/Stars-My%20Stars-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+</p>
 
-<a href="https://github.com/jitteswaran">
-<img src="https://img.shields.io/badge/Profile-jitteswaran-0D1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
+### ⚙️ Backend & Database
 
-</div>
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
 
----
+### 🛠️ Tools
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=jitteswaran&theme=github-dark&hide_border=true"
-width="70%"
-/>
-
-</div>
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
 
 ---
 
@@ -108,55 +97,33 @@ width="70%"
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-## 🎨 Imposter Ink
+### 🎨 Imposter Ink
 
 A multiplayer drawing game where players work together to identify the hidden imposter.
 
-**Tech**
+**Built with:**  
+`JavaScript` `Node.js` `Express` `Canvas`
 
-`React` `Node.js` `Express` `WebSockets`
+<br>
 
-</td>
-
-<td width="50%" valign="top">
-
-## 🤟 SignMate AI
-
-An interactive sign-language learning application using AI-powered hand tracking.
-
-**Tech**
-
-`JavaScript` `MediaPipe` `Computer Vision`
+<a href="https://github.com/jitteswaran?tab=repositories">💻 View Project</a>
 
 </td>
 
-</tr>
+<td width="50%">
 
-<tr>
+### 🤟 SignMate AI
 
-<td width="50%" valign="top">
+An interactive sign-language learning experience using camera-based hand tracking.
 
-## 🧠 Spell Rush
+**Built with:**  
+`JavaScript` `Computer Vision` `MediaPipe`
 
-A fast-paced spelling improvement game featuring rounds, scoring, lives, streaks and difficulty progression.
+<br>
 
-**Tech**
-
-`JavaScript` `HTML` `CSS` `LocalStorage`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🩸 BloodConnect
-
-A web application designed to connect blood donors with people searching for blood donations.
-
-**Tech**
-
-`HTML` `CSS` `JavaScript` `Database`
+<a href="https://github.com/jitteswaran?tab=repositories">💻 View Project</a>
 
 </td>
 
@@ -164,27 +131,33 @@ A web application designed to connect blood donors with people searching for blo
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-## 🏥 Hospital Management System
+### 🧠 Spell Rush
 
-A web-based management system designed to handle hospital-related information and workflows.
+A spelling-improvement game designed around quick rounds, scoring and progression.
 
-**Tech**
+**Built with:**  
+`HTML` `CSS` `JavaScript`
 
-`Web Development` `Database`
+<br>
+
+<a href="https://github.com/jitteswaran?tab=repositories">💻 View Project</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-## 🛒 Sunrise Maligai
+### 🛒 Sunrise Maligai
 
-A grocery store management system focused on inventory tracking, products and GST billing.
+A grocery management system with product management, inventory tracking and billing functionality.
 
-**Tech**
-
+**Built with:**  
 `React` `Node.js` `MongoDB`
+
+<br>
+
+<a href="https://github.com/jitteswaran?tab=repositories">💻 View Project</a>
 
 </td>
 
@@ -193,73 +166,270 @@ A grocery store management system focused on inventory tracking, products and GS
 
 ---
 
-# 🔭 Currently Building
+# 🔍 Explore My Projects
 
-## 🌌 3D Interactive Web Experience
+<details>
+<summary>🎮 Game & Interactive Projects</summary>
 
-Exploring interactive 3D experiences on the web with a focus on making portfolio projects more immersive.
+<br>
+
+### 🎨 Imposter Ink
+
+Multiplayer social drawing experience featuring:
+
+- 🎨 Collaborative canvas
+- 🕵️ Hidden imposters
+- 💬 Player interaction
+- 🗳️ Voting system
+- 🔄 Multiple rounds
+- 📱 Responsive interface
+
+**Status:** `Completed`
+
+<br>
+
+<a href="https://github.com/jitteswaran?tab=repositories">🚀 Explore on GitHub</a>
+
+</details>
+
+<details>
+<summary>🤖 AI & Computer Vision</summary>
+
+<br>
+
+### 🤟 SignMate AI
+
+Interactive sign-language learning application featuring camera-based hand tracking.
+
+Focus areas:
+
+- 👋 Hand tracking
+- 🧠 Computer vision
+- 📚 Learning experience
+- 📈 Progress tracking
+- 📷 Camera interaction
+
+**Status:** `Completed`
+
+<br>
+
+<a href="https://github.com/jitteswaran?tab=repositories">🚀 Explore on GitHub</a>
+
+</details>
+
+<details>
+<summary>🌐 Web Applications</summary>
+
+<br>
+
+Projects I've worked on include:
+
+- 🛒 Sunrise Maligai
+- 🩸 BloodConnect
+- 🏥 Hospital Management System
+- 🧠 Spell Rush
+- 👤 Who Am I
+
+<br>
+
+<a href="https://github.com/jitteswaran?tab=repositories">📂 Explore All Projects</a>
+
+</details>
 
 ---
 
-# 🎯 What I'm Learning
+# 🧪 Currently Building
 
-<p align="center">
+<details>
+<summary>👀 What am I working on?</summary>
 
-<img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<br>
 
-<img src="https://img.shields.io/badge/Backend-Development-339933?style=for-the-badge&logo=node.js&logoColor=white">
+### 🌐 3D Interactive Web Experience
 
-<img src="https://img.shields.io/badge/AI-Computer%20Vision-8B5CF6?style=for-the-badge">
+A portfolio-focused interactive website exploring:
 
-<img src="https://img.shields.io/badge/3D-Web%20Development-FF6B6B?style=for-the-badge">
+- 🧊 3D environments
+- 🖱️ Interactive elements
+- ✨ Motion
+- 🎮 Game-like interactions
+- 🌐 Web-based 3D
 
-<img src="https://img.shields.io/badge/Real--Time-Applications-00C853?style=for-the-badge">
+**Status:** `Planning / Building`
 
-</p>
+</details>
 
 ---
 
-# 💡 Development Philosophy
+# 📚 Currently Learning
+
+<details>
+<summary>📖 Click to explore</summary>
+
+<br>
+
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- AI / Machine Learning
+- Computer Vision
+- 3D Web Development
+- Full-Stack Development
+
+</details>
+
+---
+
+# 🧠 My Development Philosophy
+
+<details>
+<summary>💡 Click to reveal</summary>
+
+<br>
+
+**Don't just learn.**
+
+↓
+
+**Build something.**
+
+↓
+
+**Something breaks.**
+
+↓
+
+**Debug it.**
+
+↓
+
+**Understand why.**
+
+↓
+
+**Improve it.**
+
+↓
+
+**Ship it.**
+
+</details>
+
+---
+
+# 📊 GitHub
 
 <div align="center">
 
-### "Build it. Break it. Fix it. Improve it. Ship it."
+<a href="https://github.com/jitteswaran?tab=repositories">
+💻 <b>View Repositories</b>
+</a>
+
+&nbsp;&nbsp; • &nbsp;&nbsp;
+
+<a href="https://github.com/jitteswaran?tab=overview">
+🔥 <b>View Contributions</b>
+</a>
+
+&nbsp;&nbsp; • &nbsp;&nbsp;
+
+<a href="https://github.com/jitteswaran">
+👤 <b>View Profile</b>
+</a>
 
 </div>
 
-I believe the best way to learn development is to turn ideas into real projects, solve problems, and continuously improve.
+<br>
+
+<details>
+<summary>📈 GitHub Snapshot</summary>
+
+<br>
+
+| Area | Focus |
+|---|---|
+| 💻 Development | Web & Interactive Applications |
+| 🤖 AI | Computer Vision & AI Projects |
+| 🎮 Games | Multiplayer & Interactive Games |
+| 🌐 Web | Frontend + Backend |
+| 🧪 Experiments | New technologies & ideas |
+
+</details>
 
 ---
 
-# 📌 Goals
+# 🎯 Goals
 
-- 🚀 Build more real-world applications
-- 🤖 Explore practical AI projects
-- 🌐 Create immersive web experiences
-- 🎮 Experiment with interactive applications
-- 💼 Build a strong developer portfolio
-- 📚 Keep learning and improving
+<details>
+<summary>🚀 2026 Goals</summary>
+
+<br>
+
+- [x] Build real projects
+- [x] Publish projects
+- [x] Create a developer portfolio
+- [x] Learn full-stack development
+- [x] Build AI-powered applications
+- [ ] Build a 3D interactive web experience
+- [ ] Grow my GitHub presence
+- [ ] Build more production-ready applications
+- [ ] Turn projects into real opportunities
+
+</details>
 
 ---
 
-# 🌐 Connect With Me
+# 🏆 Project Mindset
 
 <div align="center">
+
+### `Ideas are cheap. Built projects are proof.`
+
+<br>
+
+**Learn → Build → Ship → Improve**
+
+</div>
+
+---
+
+# 🔗 Connect
+
+<div align="center">
+
+### Want to see what I'm building?
+
+<br>
 
 <a href="https://github.com/jitteswaran">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/jitteswaran-t-4730b0431?">
+<a href="https://www.linkedin.com/in/jitteswaran-t-4730b0431">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white">
+<a href="https://www.instagram.com/build_with_jerry">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="https://www.instagram.com/build_with_jerry?stkn=MWVlZjV5dGgyMTRlNg==">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<br><br>
+
+<a href="https://github.com/jitteswaran">
+👨‍💻 GitHub
+</a>
+
+&nbsp; • &nbsp;
+
+<a href="https://www.linkedin.com/in/jitteswaran-t-4730b0431">
+💼 LinkedIn
+</a>
+
+&nbsp; • &nbsp;
+
+<a href="https://www.instagram.com/build_with_jerry">
+📸 Instagram
 </a>
 
 </div>
@@ -268,10 +438,12 @@ I believe the best way to learn development is to turn ideas into real projects,
 
 <div align="center">
 
-### ⚡ Always Building. Always Learning. Always Shipping.
+### ⚡ Thanks for visiting!
+
+`Built with curiosity, code and a lot of debugging.`
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=jitteswaran&style=for-the-badge&color=8B5CF6">
+⭐ Feel free to explore my repositories.
 
 </div>
