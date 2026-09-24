@@ -40,16 +40,6 @@ Building interactive web experiences, games and AI-powered projects.
 
 <br>
 
-<a href="https://github.com/jitteswaran">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/jitteswaran-t-4730b0431">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.instagram.com/build_with_jerry">
-  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
 </div>
 
 ---
