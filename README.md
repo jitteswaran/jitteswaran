@@ -1,10 +1,5 @@
 <div align="center">
 
-<a href="https://github.com/jitteswaran">
-  <img src="./assets/jitteswaran-3d.png" width="100%" alt="Jitteswaran 3D Developer Profile"/>
-</a>
-<div align="center">
-
 <a href="YOUR_PORTFOLIO_LINK">
   <img src="./assets/jitteswaran-3d.png" width="100%" alt="Jitteswaran 3D Developer Profile">
 </a>
