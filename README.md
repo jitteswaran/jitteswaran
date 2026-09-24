@@ -1,584 +1,254 @@
 <div align="center">
 
-# ◈ JITTESWARAN ◈
-
-### `AI & DATA SCIENCE`  ×  `WEB DEVELOPMENT`  ×  `CREATIVE BUILDING`
-
-<br>
-
 <a href="https://github.com/jitteswaran">
-<img src="https://img.shields.io/badge/%E2%96%B6%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/jitteswaran-t-4730b0431">
-<img src="https://img.shields.io/badge/%E2%96%B6%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/build_with_jerry">
-<img src="https://img.shields.io/badge/%E2%96%B6%20BUILD_WITH_JERRY-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="./assets/jitteswaran-3d.png" width="100%" alt="Jitteswaran 3D Developer Profile"/>
 </a>
 
 <br><br>
 
-`[ SYSTEM ONLINE ]` ` [ BUILDING ]` ` [ LEARNING ]` ` [ SHIPPING ]`
+# JITTESWARAN
+
+### AI & Data Science Student • Developer • Builder
+
+Building interactive web experiences, games and AI-powered projects.
+
+<br>
+
+<a href="https://github.com/jitteswaran">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/jitteswaran-t-4730b0431">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/build_with_jerry">
+  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
 </div>
 
 ---
 
-# ◈ DEV SYSTEM
+## ⚡ ABOUT
 
-<table>
-<tr>
+> Developer focused on turning ideas into real, usable projects.
 
-<td width="33%" align="center">
-
-### 🧠 CORE
-
-`AI & Data Science`
-
-<br>
-
-Problem solving  
-Computer Vision  
-Machine Learning  
-Creative coding
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚡ ENGINE
-
-`FULL STACK`
-
-<br>
-
-React  
-Node.js  
-Express  
-MongoDB
-
-</td>
-
-<td width="33%" align="center">
-
-### 🚀 MODE
-
-`BUILDER`
-
-<br>
-
-Games  
-Web Apps  
-AI Projects  
-Interactive Experiences
-
-</td>
-
-</tr>
-</table>
+- 🎨 Interactive Web Experiences
+- 🤖 AI & Computer Vision
+- 🎮 Games & Experimental Projects
+- 💻 Full-Stack Development
+- 🚀 Learning by building and shipping
 
 ---
 
-# ◈ NAVIGATION
+## 🧠 TECH CORE
 
 <div align="center">
 
-<a href="#-about">[ ABOUT ]</a>
-&nbsp;&nbsp;
-<a href="#-tech-core">[ TECH ]</a>
-&nbsp;&nbsp;
-<a href="#-project-nodes">[ PROJECTS ]</a>
-&nbsp;&nbsp;
-<a href="#-current-build">[ BUILD ]</a>
-&nbsp;&nbsp;
-<a href="#-connect">[ CONNECT ]</a>
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,python,c,html,css" alt="Languages">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite" alt="Frontend">
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend">
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools">
 
 </div>
 
 ---
 
-# ◈ ABOUT
+## 🚀 PROJECT NODES
 
 <details>
-<summary>🧬 OPEN PROFILE MODULE</summary>
+<summary><b>🎨 Imposter Ink</b></summary>
 
 <br>
 
-I'm an **AI & Data Science student** who enjoys turning ideas into real, working projects.
+A multiplayer drawing and imposter-detection game where players draw clues while trying to identify the hidden imposter.
 
-I don't want my GitHub to simply be a collection of tutorials.
+**Tech Stack**
 
-I use it as a place to experiment, build, break things, fix them and ship them.
+JavaScript • Node.js • Express • Canvas
 
-### CURRENT MINDSET
+**Status:** Completed
 
-> `IDEA → PROTOTYPE → DEBUG → POLISH → DEPLOY`
+</details>
 
-### WHAT I LIKE BUILDING
+<br>
 
-- 🎮 Interactive games
-- 🌐 Modern web applications
-- 🤖 AI-powered experiences
-- 🧠 Computer-vision projects
-- 🎨 Creative interfaces
-- 🧪 Experimental ideas
+<details>
+<summary><b>🤟 SignMate AI</b></summary>
+
+<br>
+
+A sign-language learning application using camera-based hand tracking and computer vision.
+
+**Tech Stack**
+
+JavaScript • MediaPipe • Computer Vision
+
+**Status:** Completed
+
+</details>
+
+<br>
+
+<details>
+<summary><b>⌨️ Spell Rush</b></summary>
+
+<br>
+
+An interactive spelling-improvement game built around fast-paced rounds, scoring and progression.
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+**Status:** Completed
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🛒 Sunrise Maligai</b></summary>
+
+<br>
+
+A grocery management system designed for inventory tracking and billing.
+
+**Tech Stack**
+
+React • Node.js • MongoDB
+
+**Status:** Building
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🌌 3D Interactive Web Experience</b></summary>
+
+<br>
+
+An experimental portfolio project focused on immersive 3D interaction directly in the browser.
+
+**Tech Stack**
+
+Web • 3D • JavaScript
+
+**Status:** Planned
 
 </details>
 
 ---
 
-# ◈ TECH CORE
+## 📂 PROJECT ARCHIVE
 
-<table>
-<tr>
-
-<td width="50%">
-
-<details>
-<summary>💻 LANGUAGES</summary>
-
-<br>
-
-`JavaScript`
-
-`Python`
-
-`C`
-
-</details>
-
-<br>
-
-<details>
-<summary>🌐 FRONTEND</summary>
-
-<br>
-
-`HTML`
-
-`CSS`
-
-`React`
-
-`Vite`
-
-</details>
-
-</td>
-
-<td width="50%">
-
-<details>
-<summary>⚙️ BACKEND</summary>
-
-<br>
-
-`Node.js`
-
-`Express`
-
-`MongoDB`
-
-</details>
-
-<br>
-
-<details>
-<summary>🛠️ TOOLS</summary>
-
-<br>
-
-`Git`
-
-`GitHub`
-
-`VS Code`
-
-</details>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ◈ PROJECT NODES
-
-### `SELECT A NODE TO EXPAND`
-
-<table>
-<tr>
-
-<td width="50%">
-
-<details>
-<summary>🎨 NODE_01 — IMPOSTER INK</summary>
-
-<br>
-
-**TYPE:** Multiplayer Game
-
-**STATUS:** `COMPLETED`
-
-A multiplayer drawing and imposter-detection experience.
-
-### SYSTEM FEATURES
-
-- 🎨 Multiplayer canvas
-- 🕵️ Hidden imposters
-- 💬 Player interaction
-- 🗳️ Voting system
-- 🔄 Multiple rounds
-- 📱 Responsive interface
-
-### STACK
-
-`JavaScript` `Node.js` `Express` `Canvas`
-
-<br>
-
-<a href="https://github.com/jitteswaran?tab=repositories">⚡ OPEN PROJECTS</a>
-
-</details>
-
-</td>
-
-<td width="50%">
-
-<details>
-<summary>🤟 NODE_02 — SIGNMATE AI</summary>
-
-<br>
-
-**TYPE:** AI / Computer Vision
-
-**STATUS:** `COMPLETED`
-
-Interactive sign-language learning using camera-based hand tracking.
-
-### SYSTEM FEATURES
-
-- 👋 Hand tracking
-- 🧠 Computer vision
-- 📚 Interactive lessons
-- 📈 Progress tracking
-- 📷 Camera interaction
-
-### STACK
-
-`JavaScript` `MediaPipe` `Computer Vision`
-
-<br>
-
-<a href="https://github.com/jitteswaran?tab=repositories">⚡ OPEN PROJECTS</a>
-
-</details>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<details>
-<summary>🧠 NODE_03 — SPELL RUSH</summary>
-
-<br>
-
-**TYPE:** Interactive Web Game
-
-**STATUS:** `COMPLETED`
-
-A spelling-improvement game built around quick rounds, scoring and progression.
-
-### SYSTEM FEATURES
-
-- 📝 Spelling challenges
-- ⚡ Fast rounds
-- 🏆 Score system
-- 📈 Progress tracking
-- 🎮 Interactive gameplay
-
-### STACK
-
-`HTML` `CSS` `JavaScript`
-
-<br>
-
-<a href="https://github.com/jitteswaran?tab=repositories">⚡ OPEN PROJECTS</a>
-
-</details>
-
-</td>
-
-<td width="50%">
-
-<details>
-<summary>🛒 NODE_04 — SUNRISE MALIGAI</summary>
-
-<br>
-
-**TYPE:** Business Management System
-
-**STATUS:** `BUILDING`
-
-A grocery management system focused on inventory and billing workflows.
-
-### SYSTEM FEATURES
-
-- 📦 Product management
-- 📊 Inventory tracking
-- 🧾 Billing
-- 💰 GST support
-- 🖥️ Admin dashboard
-
-### STACK
-
-`React` `Node.js` `MongoDB`
-
-<br>
-
-<a href="https://github.com/jitteswaran?tab=repositories">⚡ OPEN PROJECTS</a>
-
-</details>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ◈ PROJECT ARCHIVE
-
-<details>
-<summary>📂 OPEN COMPLETE PROJECT MATRIX</summary>
-
-<br>
-
-| PROJECT | TYPE | STATUS |
+| Project | Type | Status |
 |---|---|---|
-| 🎨 Imposter Ink | Multiplayer Game | `COMPLETED` |
-| 🤟 SignMate AI | Computer Vision | `COMPLETED` |
-| 🧠 Spell Rush | Web Game | `COMPLETED` |
-| 🩸 BloodConnect | Web Application | `COMPLETED` |
-| 🏥 Hospital Management System | Web Application | `COMPLETED` |
-| 👤 Who Am I | Web Application | `COMPLETED` |
-| 🛒 Sunrise Maligai | Business System | `BUILDING` |
-
-<br>
-
-<a href="https://github.com/jitteswaran?tab=repositories">📡 ACCESS REPOSITORY ARCHIVE</a>
-
-</details>
+| 🎨 Imposter Ink | Multiplayer Game | ✅ Completed |
+| 🤟 SignMate AI | Computer Vision | ✅ Completed |
+| ⌨️ Spell Rush | Web Game | ✅ Completed |
+| 🩸 BloodConnect | Web Application | ✅ Completed |
+| 🏥 Hospital Management System | Web Application | ✅ Completed |
+| 👤 Who Am I | Web Application | ✅ Completed |
+| 🛒 Sunrise Maligai | Management System | 🔨 Building |
+| 🌌 3D Interactive Web | Portfolio Experience | 🧪 Planned |
 
 ---
 
-# ◈ CURRENT BUILD
-
-<details open>
-<summary>🌐 3D INTERACTIVE WEB EXPERIENCE</summary>
-
-<br>
-
-### PROJECT TYPE
-
-`PORTFOLIO EXPERIENCE`
-
-### CONCEPT
-
-A 3D interactive web experience designed to make a portfolio feel more like an exploration rather than a traditional webpage.
-
-### EXPLORATION MODULES
-
-`3D ENVIRONMENT`
-
-`INTERACTIVE OBJECTS`
-
-`CAMERA MOVEMENT`
-
-`MOTION`
-
-`GAME-LIKE INTERACTION`
-
-`WEB TECHNOLOGY`
-
-### STATUS
-
-`████████░░░░░░░░░░` `PLANNING / BUILDING`
-
-</details>
-
----
-
-# ◈ LEARNING MATRIX
-
-<details>
-<summary>🧠 OPEN LEARNING SYSTEM</summary>
-
-<br>
-
-### JAVASCRIPT
-
-`████████████████░░`
-
-### REACT
-
-`██████████████░░░░`
-
-### NODE.JS
-
-`████████████░░░░░░`
-
-### MONGODB
-
-`███████████░░░░░░░`
-
-### AI / ML
-
-`██████████░░░░░░░░`
-
-### COMPUTER VISION
-
-`█████████░░░░░░░░░`
-
-### 3D WEB
-
-`███████░░░░░░░░░░░`
-
-</details>
-
----
-
-# ◈ DEVELOPMENT LOOP
+## 🌌 CURRENT BUILD
 
 <div align="center">
 
-### `01` 💡 IDEA
+### 3D INTERACTIVE WEB EXPERIENCE
 
-↓
+**Turning a portfolio into an experience.**
 
-### `02` 🧪 EXPERIMENT
+```text
+STATUS   →  PLANNING
+MODE     →  EXPERIMENTAL
+TARGET   →  PORTFOLIO
+FOCUS    →  3D + INTERACTION
+```
 
-↓
+📚 LEARNING MATRIX
 
-### `03` 💻 BUILD
+Web Development        ███████████████░░░
+JavaScript             ███████████████░░░
+React                  ████████████░░░░░░
+Node.js                ███████████░░░░░░░
+MongoDB                ██████████░░░░░░░░
+Computer Vision        █████████░░░░░░░░░
+AI / ML                ████████░░░░░░░░░░
+3D Web                 █████░░░░░░░░░░░░░
 
-↓
+🔄 DEVELOPMENT LOOP
+<div align="center">
 
-### `04` 💥 BREAK
-
-↓
-
-### `05` 🔧 DEBUG
-
-↓
-
-### `06` ✨ POLISH
-
-↓
-
-### `07` 🚀 SHIP
-
+IDEA
+  ↓
+DESIGN
+  ↓
+BUILD
+  ↓
+DEBUG
+  ↓
+POLISH
+  ↓
+SHIP
+  ↓
+REPEAT
 </div>
 
----
+🎯 2026 MISSION
 
-# ◈ 2026 MISSION
+[✓] Build real projects
+[✓] Learn by shipping
+[✓] Publish projects
+[✓] Build AI-powered experiences
+[ ] Go deeper into 3D
+[ ] Build an interactive developer portfolio
+[ ] Create bigger real-world applications
 
-<details>
-<summary>🎯 OPEN MISSION CONTROL</summary>
-
-<br>
-
-- [x] Build real projects
-- [x] Publish projects
-- [x] Create developer portfolio
-- [x] Build AI-powered applications
-- [x] Explore computer vision
-- [x] Build interactive games
-- [ ] Build a 3D interactive web experience
-- [ ] Create more production-ready applications
-- [ ] Grow GitHub presence
-- [ ] Turn projects into real opportunities
-
-</details>
-
----
-
-# ◈ GITHUB TERMINAL
-
+🖥️ GITHUB TERMINAL
 <div align="center">
-
-`┌─────────────────────────────────────────────┐`
-
-`│  jitteswaran@github:~$ ./explore_projects   │`
-
-`│                                             │`
-
-`│  STATUS: ONLINE                             │`
-
-`│  PROJECTS: BUILDING                         │`
-
-`│  MODE: CREATIVE                             │`
-
-`│  NEXT: 3D EXPERIENCE                        │`
-
-`└─────────────────────────────────────────────┘`
-
-<br>
-
-<a href="https://github.com/jitteswaran?tab=repositories">
-
-**[ ⚡ EXECUTE → EXPLORE REPOSITORIES ]**
-
-</a>
-
+┌───────────────────────────────────────────────┐
+│                                               │
+│   USER       : JITTESWARAN                   │
+│   ROLE       : DEVELOPER                     │
+│   MODE       : BUILD                         │
+│   SYSTEM     : ONLINE                        │
+│                                               │
+│   DREAM      → BUILD                         │
+│   BUILD      → DEBUG                         │
+│   DEBUG      → POLISH                        │
+│   POLISH     → SHIP                          │
+│                                               │
+│   > system ready...                          │
+│                                               │
+└───────────────────────────────────────────────┘
 </div>
-
----
-
-# ◈ CONNECT
-
-<div align="center">
-
-### LET'S BUILD SOMETHING.
-
-<br>
-
-<a href="https://github.com/jitteswaran">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/jitteswaran-t-4730b0431">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/build_with_jerry">
-<img src="https://img.shields.io/badge/BUILD_WITH_JERRY-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+🔗 CONNECT
+<div align="center"> <a href="https://github.com/jitteswaran"> <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/jitteswaran-t-4730b0431"> <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://www.instagram.com/build_with_jerry"> <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a>
 
 <br><br>
 
-`GITHUB` • `LINKEDIN` • `INSTAGRAM`
+Building ideas into experiences.
 
 </div>
-
----
 
 <div align="center">
 
-# ◈ END OF TRANSMISSION ◈
+<sub>© 2026 Jitteswaran • Built with curiosity and code.</sub>
 
-`BUILD. BREAK. DEBUG. SHIP.`
-
-<br>
-
-⭐ **Thanks for exploring my profile.**
-
-</div>
+</div> ```
