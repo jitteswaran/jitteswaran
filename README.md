@@ -176,7 +176,7 @@ Web • 3D • JavaScript
 | ⌨️ Spell Rush | Web Game | ✅ Completed |
 | 🩸 BloodConnect | Web Application | ✅ Completed |
 | 🏥 Hospital Management System | Web Application | ✅ Completed |
-| 👤 Who Am I | Web Application | ✅ Completed |
+| 👤 Who Am I | Web Game | ✅ Completed |
 | 🛒 Sunrise Maligai | Management System | 🔨 Building |
 | 🌌 3D Interactive Web | Portfolio Experience | 🧪 Planned |
 
